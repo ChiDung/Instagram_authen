@@ -1,0 +1,3 @@
+CLIENT_ID_test: 'd4ffb8d7eaaf46f7bf7f2beb57fec172'
+CLIENT_SECRET_test: '9e4085571c8f4107b5f9b3c3acf29ce6'
+REDIRECT_URI_test: 'http://localhost:3000/callback'
